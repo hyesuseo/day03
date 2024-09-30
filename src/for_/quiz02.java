@@ -15,6 +15,8 @@ public class quiz02 {
 			System.out.println(n+". hello");
 			
 		}
+		
+		
 
 	}
 

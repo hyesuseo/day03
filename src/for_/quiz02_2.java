@@ -11,6 +11,17 @@ public class quiz02_2 {
 		}
 		
 		}
+		
+		int j , sum2 = 0;
+		
+		for (j =1; j<=100; j++) {
+			sum2 = sum2+j;
+			
+		} if (sum2 ==528) {
+			System.out.println("j의 값: "+j);	
+			// for문 바깥에서 걸면 if가 안걸림
+		}
+		
 	}
 
 }

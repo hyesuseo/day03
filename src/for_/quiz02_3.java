@@ -11,7 +11,15 @@ public class quiz02_3 {
 				System.out.println();
 			}
 		}
-	
+		System.out.println();
+		
+		int b;
+		for (b = 1; b<=25; b++) {
+			System.out.print(b+"\t");
+			if (b%5==0) {
+				System.out.println();
+			}
+		}
 
 	}
 
